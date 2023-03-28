@@ -1,0 +1,1 @@
+(ns notebook.quest.bestiary)
